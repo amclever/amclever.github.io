@@ -1,5 +1,5 @@
 # Alex Cleveringa
-### My Education
+### Education
 Ph.D. Crop Production & Physiology 2025  
 Iowa State University
 
@@ -9,15 +9,21 @@ Iowa State University
 B.S. Agricultural Biochemistry 2015  
 Iowa State University
 
-### My resume
+### Resume
 [Resume](assets/docs/Cleveringa_resume_summer_2025.pdf)
-### My CV
+### CV
+(coming soon!)
 
-### My Projects
+### Research Interests
+My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology
+
+### Projects (coming soon!)
 #### Losing Control
+#### QPQ Model
+#### Responsiveness
 
-### My Presentations
-#### My dissertation defense
+### Presentations
+#### dissertation defense
 [Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
 #### Poster from ASA 2022 - Baltimore
@@ -33,8 +39,8 @@ Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M.,
 [Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)
 
 
-[My thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
-**Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).
+**Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
+[thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
-My dissertation (coming soon!)  
+dissertation (coming soon!)  
 **Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).
