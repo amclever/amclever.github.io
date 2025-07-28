@@ -1,12 +1,12 @@
 # Alex Cleveringa
 ### Education
-Ph.D. Crop Production & Physiology 2025  
+Ph.D. Crop Production & Physiology - 2025  
 Iowa State University
 
-M.S. Soil Science (Soil Management) 2020  
+M.S. Soil Science (Soil Management) - 2020  
 Iowa State University
 
-B.S. Agricultural Biochemistry 2015  
+B.S. Agricultural Biochemistry - 2015  
 Iowa State University
 
 ### Resume
