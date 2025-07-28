@@ -28,13 +28,13 @@ Iowa State University
 
 
 ### List of publications
-Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., ... & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.
+Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., ... & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.  
 [Article](https://www.nature.com/articles/s41597-023-02071-9)  
 [Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)
 
 
-[My thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+[My thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 **Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).
 
-My dissertation (coming soon!)
+My dissertation (coming soon!)  
 **Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).
