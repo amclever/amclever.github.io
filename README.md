@@ -10,7 +10,7 @@ B.S. Agricultural Biochemistry
 Iowa State University
 
 ### My resume
-
+[Resume](_assets/files/Cleveringa_resume_summer_2025.pdf)
 ### My CV
 
 ### My Projects
