@@ -1,5 +1,5 @@
 # Alex Cleveringa
-![li logo](assets/img/lnBug-Black.png)
+![li logo](assets/img/InBug-Black.png)
 ### Education
 Ph.D. Crop Production & Physiology - 2025  
 Iowa State University
