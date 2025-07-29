@@ -4,8 +4,8 @@ remote_theme: pages-themes/time-machine
 plugins:
 - jekyll-remote-theme 
 #linkedin_username: alexcleveringa
-social links:
-  linkedin: alexcleveringa
+#social links:
+#  linkedin: alexcleveringa
 #  url: https://www.linkedin.com/in/alexcleveringa/
 #- name = github
 #  url: https://github.com/amclever
