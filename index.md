@@ -25,21 +25,21 @@ My research interests include soil fertility, experimental design, nonlinear mod
 #### dissertation defense
 [Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
-#### Poster from ASA 2022 - Baltimore
-[Absolute Yield Instead of Relative Yield for Fertilizer Recommendations?](assets/img/Baltimore_poster.pdf)
+#### Oral Presentation from ASA 2024 - San Antonio
+[Losing Control: What happens when we exclude the control treatment in nitrogen fertilizer rate trials?](https://scisoc.confex.com/scisoc/2024am/meetingapp.cgi/Paper/157192)
 #### Poster from ASA 2023 - St. Louis
 [Can We Identify Covariates Using Absolute Yield for Fertilizer Recommendations?](assets/img/StLouis_poster.pdf)
-#### Presentation from ASA 2024 - San Antonio
+#### Poster from ASA 2022 - Baltimore
+[Absolute Yield Instead of Relative Yield for Fertilizer Recommendations?](assets/img/Baltimore_poster.pdf)
 
 
 ### List of publications
+dissertation (coming soon!)  
+**Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).
 Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., ... & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.  
 [Article](https://www.nature.com/articles/s41597-023-02071-9)  
-[Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)
-
+[Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)  
 
 **Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
 [thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
-dissertation (coming soon!)  
-**Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).
