@@ -1,6 +1,6 @@
 title: Alex Cleveringa
 logo: assets/img/Cleveringa_headshot_copy.jpg
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/hugo-PaperMod
 plugins:
 - jekyll-remote-theme 
 #linkedin_username: alexcleveringa
