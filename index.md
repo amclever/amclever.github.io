@@ -34,9 +34,9 @@ My research interests include soil fertility, experimental design, nonlinear mod
 [Absolute Yield Instead of Relative Yield for Fertilizer Recommendations?](assets/img/Baltimore_poster.pdf)
 
 
-### List of publications
-dissertation (coming soon!)  
+### List of publications  
 **Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).  
+(link coming soon!)  
 
 Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., Newville, D., Quinn, D., McGuire, J., Tao, H., Morris, T., & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.  
 [Article](https://www.nature.com/articles/s41597-023-02071-9)  
