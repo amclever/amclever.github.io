@@ -1,7 +1,7 @@
 # Alex Cleveringa
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexcleveringa/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/amclever)
-[![Email](https://img.shields.io/badge/Email-Me-green)](mailto:alex.cleveringa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/alexcleveringa/)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/amclever)
+[![Email](https://img.shields.io/badge/Email-green)](mailto:alex.cleveringa@gmail.com)
 ### Education
 Ph.D. Crop Production & Physiology - 2025  
 Iowa State University
