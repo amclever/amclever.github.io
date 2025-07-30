@@ -11,13 +11,13 @@ Iowa State University
 B.S. Agricultural Biochemistry - 2015  
 Iowa State University
 
+### Research Interests
+My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology.
+
 ### Resume
 [resume](assets/docs/Cleveringa_resume_summer_2025.pdf)
 ### CV
 (coming soon!)
-
-### Research Interests
-My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology.
 
 ### Presentations
 #### Dissertation defense - 2025
