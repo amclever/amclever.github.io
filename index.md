@@ -37,8 +37,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 (link coming soon!)  
 
 Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., Newville, D., Quinn, D., McGuire, J., Tao, H., Morris, T., & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.  
-[Article](https://www.nature.com/articles/s41597-023-02071-9)  
-[Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)  
+[Article](https://www.nature.com/articles/s41597-023-02071-9), [Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)  
 
 **Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
 [thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
