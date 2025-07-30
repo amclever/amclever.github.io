@@ -1,4 +1,4 @@
-# Alex Cleveringa
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/alexcleveringa/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/amclever)
 [![Email](https://img.shields.io/badge/Email-green)](mailto:alex.cleveringa@gmail.com)
@@ -18,15 +18,15 @@ Iowa State University
 (coming soon!)
 
 ### Research Interests
-My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology
+My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology.
 
 ### Projects (coming soon!)
-#### Losing Control
-#### QPQ Model
-#### Responsiveness
+##### Losing Control
+##### QPQ Model
+##### Responsiveness
 
 ### Presentations
-#### dissertation defense
+#### Dissertation defense
 [Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
 #### Oral Presentation from ASA 2024 - San Antonio
@@ -37,7 +37,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 [Absolute Yield Instead of Relative Yield for Fertilizer Recommendations?](assets/img/Baltimore_poster.pdf)
 
 
-### List of publications  
+### Publications  
 **Cleveringa, A.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).  
 (link coming soon!)  
 
