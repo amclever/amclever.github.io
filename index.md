@@ -20,11 +20,6 @@ Iowa State University
 ### Research Interests
 My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology.
 
-### Projects (coming soon!)
-##### Losing Control
-##### QPQ Model
-##### Responsiveness
-
 ### Presentations
 #### Dissertation defense
 [Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
@@ -48,3 +43,7 @@ Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M.,
 **Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
 [thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
+### Projects (coming soon!)
+##### Losing Control
+##### QPQ Model
+##### Responsiveness
