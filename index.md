@@ -20,14 +20,14 @@ My research interests include soil fertility, experimental design, nonlinear mod
 (coming soon!)
 
 ### Presentations
-#### Dissertation defense - 2025
+##### Dissertation defense - 2025
 [Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
-#### Oral Presentation from ASA 2024 - San Antonio
+##### Oral Presentation from ASA 2024 - San Antonio
 [Losing Control: What happens when we exclude the control treatment in nitrogen fertilizer rate trials?](https://scisoc.confex.com/scisoc/2024am/meetingapp.cgi/Paper/157192)
-#### Poster from ASA 2023 - St. Louis
+##### Poster from ASA 2023 - St. Louis
 [Can We Identify Covariates Using Absolute Yield for Fertilizer Recommendations?](assets/img/StLouis_poster.pdf)
-#### Poster from ASA 2022 - Baltimore
+##### Poster from ASA 2022 - Baltimore
 [Absolute Yield Instead of Relative Yield for Fertilizer Recommendations?](assets/img/Baltimore_poster.pdf)
 
 
