@@ -15,7 +15,7 @@ Iowa State University
 My research interests include soil fertility, experimental design, nonlinear modeling, statistics, and crop physiology.
 
 ### Resume
-[resume](assets/docs/Cleveringa_resume_summer_2025.pdf)
+[Resume](assets/docs/Cleveringa_resume_summer_2025.pdf)
 ### CV
 (coming soon!)
 
