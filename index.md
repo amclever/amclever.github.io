@@ -21,8 +21,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 
 ### Presentations
 ##### Dissertation defense - 2025
-[Watch](https://iowastate-my.sharepoint.com/personal/alexc1_iastate_edu/_layouts/15/embed.aspx?UniqueId=0e6fb00c-91c0-4c3b-ad16-5127a30dc42b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
-
+[Watch](https://youtu.be/msS_phhWQY0)
 ##### Oral Presentation from ASA 2024 - San Antonio
 [Losing Control: What happens when we exclude the control treatment in nitrogen fertilizer rate trials?](https://scisoc.confex.com/scisoc/2024am/meetingapp.cgi/Paper/157192)
 ##### Poster from ASA 2023 - St. Louis
@@ -41,7 +40,9 @@ Laurent, A., **Cleveringa, A.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M.,
 **Cleveringa, A.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
 [thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
-### Projects (coming soon!)
-##### Losing Control
-##### QPQ Model
-##### Responsiveness
+### Projects  
+#### ONFANT
+ONFANT, ON-FArm Nitrogen Trials, is a web-based interactive tool to visualize and summarize historical on-farm replicated strip trial data conducted by farmers working with the Iowa Soybean Association (see tab “Replicated strip trials”) and guided corn nitrate survey fields data across the Midwest (see tab “corn stalk N surveys”).  
+[Link](https://onfant.agron.iastate.edu/)  
+##### Losing Control  (Coming soon!)
+##### QPQ Model  (Coming soon!)
