@@ -17,7 +17,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 ### Resume
 [Resume](assets/docs/Cleveringa_resume_summer_2025.pdf)
 ### CV
-(coming soon!)
+[CV](assets/docs/CV_Cleveringa.pdf)
 
 ### Presentations
 ##### Dissertation defense - 2025
