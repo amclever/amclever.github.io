@@ -36,13 +36,13 @@ My research interests include soil fertility, experimental design, nonlinear mod
 **Cleveringa, A. M.**, Ransom, C. J., McDaniel, M. D., Moore, K. J., Miguez, F. E. (2025). Losing control: What happens when the control treatment is excluded in nitrogen fertilizer rate trials? [In Review]. Department of Agronomy, Iowa State University.
 
 **Cleveringa, A. M.** (2025). Soil fertility trials on trial for "noise": statistical implications for soil fertility modeling (Doctoral dissertation, Iowa State University).  
-(link coming soon!)  
+[Dissertation](https://www.proquest.com/docview/3244659768?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
 Laurent, A. C., **Cleveringa, A. M.**, Fey, S., Kyveryga, P., Wiese, N., Lefebvre, M., Newville, D., Quinn, D., McGuire, J., Tao, H., Morris, T., & Miguez, F. E. (2023). Late-season corn stalk nitrate measurements across the US Midwest from 2006 to 2018. Scientific Data, 10(1), 192.  
 [Article](https://www.nature.com/articles/s41597-023-02071-9), [Data](https://www.sidalc.net/search/Record/dat-usda-us-article24668283/Description)  
 
 **Cleveringa, A. M.** (2020). Short-term effects of integrated tillage systems and cover crop on agronomic response and soil health in North Central Iowa (Master's thesis, Iowa State University).  
-[thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
+[Thesis](https://www.proquest.com/docview/2480780213?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)  
 
 ### Projects  
 #### ONFANT
