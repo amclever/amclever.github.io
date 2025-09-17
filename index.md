@@ -2,7 +2,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/amclever)
 [![Email](https://img.shields.io/badge/Email-green)](mailto:alex.cleveringa@gmail.com)
 ### Education
-Ph.D. Crop Production & Physiology - 2025  
+[Ph.D. Crop Production & Physiology](https://www.parchment.com/u/award/1dfdbd7a04f54be8b4c26f9933e35167) - 2025  
+Minor in Statistics  
+[Graduate Certificate in Data-Driven Food, Energy, and Water Systems](https://www.parchment.com/u/award/c1d82caccb621a16ee6f7557b26b01ec) - [DataFEWSion](https://datafewsion.iastate.edu/)
 Iowa State University
 
 M.S. Soil Science (Soil Management) - 2020  
