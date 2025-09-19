@@ -23,7 +23,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 
 ### Presentations
 ##### Dissertation defense - 2025
-[Watch](https://youtu.be/msS_phhWQY0)
+[Watch](https://youtu.be/msS_phhWQY0?si=2e5_enm9569vtoIo)
 ##### Oral Presentation from ASA 2024 - San Antonio
 [Losing Control: What happens when we exclude the control treatment in nitrogen fertilizer rate trials?](https://scisoc.confex.com/scisoc/2024am/meetingapp.cgi/Paper/157192)
 ##### Poster from ASA 2023 - St. Louis
