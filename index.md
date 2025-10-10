@@ -1,3 +1,4 @@
+![profile](assets/img/profile.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/alexcleveringa/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/amclever)
 [![Email](https://img.shields.io/badge/Email-green)](mailto:alex.cleveringa@gmail.com)
