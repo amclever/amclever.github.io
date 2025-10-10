@@ -1,5 +1,5 @@
 title: '   '
-avatar: assets/img/Cleveringa_headshot_copy.jpg
+profile_image: /assets/img/Cleveringa_headshot_copy.jpg
 remote_theme: pages-themes/time-machine
 plugins:
 - jekyll-remote-theme 
