@@ -34,7 +34,7 @@ My research interests include soil fertility, experimental design, nonlinear mod
 
 
 ### Publications  
-**Cleveringa, A. M.**, dos Santos, C. L., Miguez, F. E. (2025). Introducing the Quadratic-Plateau-Quadratic Function: Capturing the Ups and Downs [In Review]. Department of Agronomy, Iowa State University.
+#**Cleveringa, A. M.**, dos Santos, C. L., Miguez, F. E. (2025). Introducing the Quadratic-Plateau-Quadratic Function: Capturing the Ups and Downs [In Review]. Department of Agronomy, Iowa State University.
 
 **Cleveringa, A. M.**, Ransom, C. J., McDaniel, M. D., Moore, K. J., Niemi, J. B., Miguez, F. E. (2025). Losing control: What happens when the control treatment is excluded in nitrogen fertilizer rate trials? [Accepted]. Department of Agronomy, Iowa State University.
 
